@@ -19,12 +19,11 @@
 - Install cuDNN from https://developer.nvidia.com/cudnn-downloads
 
 - Download this repository
-
-	Linux:
-
-	>git clone https://github.com/XchrysalisX/Short-term-prediction-of-the-Dst-index-and-estimation-of-efficient-uncertainty
-	>cd Short-term-prediction-of-the-Dst-index-and-estimation-of-efficient-uncertainty
-
+Linux:
+```python  
+git clone https://github.com/XchrysalisX/Short-term-prediction-of-the-Dst-index-and-estimation-of-efficient-uncertainty
+cd Short-term-prediction-of-the-Dst-index-and-estimation-of-efficient-uncertainty
+```
 - Unzip the data files in the dataset folder
 
 ## Run
